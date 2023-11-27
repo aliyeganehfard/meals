@@ -63,7 +63,7 @@ final dummyMeals = [
       'c2',
     ],
     title: 'Spaghetti with Tomato Sauce',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDHFOO1r4i5izl50d68aUYcOpE2SgQ2GlbAeLua7CiblZYRJ4Il3rOd8WXcVjaiIElUk&usqp=CAU',
     ingredients: [
       '4 Tomatoes',
       '1 Onion',
@@ -88,7 +88,7 @@ final dummyMeals = [
     id: 'm2',
     categories: ['c3', 'c4'],
     title: 'Chicken Curry with Rice',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVs79-DMcYNJoPVGRSPMBYnLl5d5IHl8afhA&usqp=CAU',
     ingredients: [
       '2 Chicken Breasts',
       '1 Onion',
@@ -114,7 +114,7 @@ final dummyMeals = [
     id: 'm3',
     categories: ['c5'],
     title: 'Caesar Salad',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0M5UopWFwvS1tRu1WkSy2xl8oieMxUVPGcw&usqp=CAU',
     ingredients: [
       'Lettuce',
       'Croutons',
@@ -139,7 +139,7 @@ final dummyMeals = [
     id: 'm4',
     categories: ['c6', 'c7'],
     title: 'Grilled Salmon with Veggies',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n-aUoNyU1gQxWPUmMdYXgpa1owFzNO5bAw&usqp=CAU',
     ingredients: [
       'Salmon Fillet',
       'Asparagus',
@@ -165,7 +165,7 @@ final dummyMeals = [
     id: 'm5',
     categories: ['c8', 'c9'],
     title: 'Mushroom Risotto',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHRfzRt8LcnV_CnZ8DGhiuEgnUNPF72JgLhg&usqp=CAU',
     ingredients: [
       'Arborio Rice',
       'Mushrooms',
@@ -192,7 +192,7 @@ final dummyMeals = [
     id: 'm6',
     categories: ['c10'],
     title: 'Beef Stir-Fry',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkcZWVTIRNxlCj3eTpq62Ay71ezixXRn8Hw&usqp=CAU',
     ingredients: [
       'Beef Strips',
       'Bell Peppers',
@@ -219,7 +219,7 @@ final dummyMeals = [
     id: 'm7',
     categories: ['c1', 'c10'],
     title: 'Caprese Salad',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsY7dTcLPmyiICJbIfAS4F_wJlWcSJi-QuA&usqp=CAU',
     ingredients: [
       'Tomatoes',
       'Mozzarella Cheese',
@@ -271,7 +271,7 @@ final dummyMeals = [
     id: 'm9',
     categories: ['c4', 'c9'],
     title: 'Shrimp Scampi',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsY7dTcLPmyiICJbIfAS4F_wJlWcSJi-QuA&usqp=CAU',
     ingredients: [
       'Shrimp',
       'Garlic',
@@ -323,7 +323,7 @@ final dummyMeals = [
     id: 'm11',
     categories: ['c3', 'c1'],
     title: 'Beef Tacos',
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOoI4wD4C4RVGD21GUZsILB3Xnv5_zd_93w&usqp=CAU',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsY7dTcLPmyiICJbIfAS4F_wJlWcSJi-QuA&usqp=CAU',
     ingredients: [
       'Ground Beef',
       'Taco Seasoning',
@@ -373,7 +373,7 @@ final dummyMeals = [
       id: 'm13',
       categories: ['c6', 'c8'],
       title: 'Spaghetti Bolognese',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8vwlKnRfnOmh-ln2UbHkAtfqrEkvu7iiVA&usqp=CAU',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsY7dTcLPmyiICJbIfAS4F_wJlWcSJi-QuA&usqp=CAU',
       ingredients: [
         'Ground Beef',
         'Spaghetti Pasta',
@@ -422,7 +422,7 @@ final dummyMeals = [
       id: 'm15',
       categories: ['c4', 'c5'],
       title: 'Vegetable Curry with Rice',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8vwlKnRfnOmh-ln2UbHkAtfqrEkvu7iiVA&usqp=CAU',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsY7dTcLPmyiICJbIfAS4F_wJlWcSJi-QuA&usqp=CAU',
       ingredients: [
         'Mixed Vegetables',
         'Curry Paste',
@@ -544,7 +544,7 @@ final dummyMeals = [
       id: 'm20',
       categories: ['c6', 'c3'],
       title: 'Chicken Fajitas',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8vwlKnRfnOmh-ln2UbHkAtfqrEkvu7iiVA&usqp=CAU',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHRfzRt8LcnV_CnZ8DGhiuEgnUNPF72JgLhg&usqp=CAU',
       ingredients: [
         'Chicken Breast',
         'Bell Peppers',
@@ -573,7 +573,7 @@ final dummyMeals = [
         'c5',
       ],
       title: 'Caprese Pasta Salad',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8vwlKnRfnOmh-ln2UbHkAtfqrEkvu7iiVA&usqp=CAU',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHRfzRt8LcnV_CnZ8DGhiuEgnUNPF72JgLhg&usqp=CAU',
       ingredients: [
         'Pasta',
         'Cherry Tomatoes',
