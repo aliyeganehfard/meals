@@ -72,9 +72,12 @@ final dummyMeals = [
       'Cheese',
     ],
     steps: [
-      'Cut the tomatoes and the onion into small pieces',
+      'Cut the tomatoes and the onion into small pieces, Combine with lettuce, dressing, cheese, and croutons',
       'Boil some water- add salt to it',
-      'Put the spaghetti into boiling'
+      'Put the spaghetti into boiling Chop the onion and tomatoes Cut the chicken breasts into pieces',
+      'Grill the chicken',
+      'Chop it',
+      'Combine with lettuce, dressing, cheese, and croutons',
     ],
     duration: 20,
     complexity: Complexity.simple,
